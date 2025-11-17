@@ -56,3 +56,117 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
+h1 {
+    font-family: Quicksand;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 45px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #36413C;
+}
+
+h2 {
+    font-family: Quicksand;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #36413C;
+}
+
+h3 {
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #5E6E66;
+}
+
+p {
+    font-family: Quicksand;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #5E6E66;
+}
+
+a {
+    font-family: Quicksand;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FF6D00;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #DE6C17;
+}
+
+button {
+    border-radius: 4px;
+    padding: 12px 33px;
+    background-color: #FF6D00;
+    color: #FFFFFF;
+    border: none;
+    font-family: Quicksand;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+button:hover {
+    background-color: #DE6C17;
+}
+
+/* Mobile styles (default, up to 767px) */
+@media (max-width: 767px) {
+    h1 {
+        font-size: 40px;
+        leading-trim: NONE;
+    }
+
+    h2 {
+        font-size: 32px;
+    }
+
+    h3 {
+        font-family: Quicksand;
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 16px;
+        color: black;
+    }
+
+    a {
+        font-size: 16px;
+        leading-trim: NONE;
+    }
+
+    button {
+        font-size: 16px;
+        padding: 10px 24px;
+    }
+}
+
+/* Tablet styles (768px to 1023px) */
+@media (min-width: 768px) and (max-width: 1023px) {
+
+}
+
+/* Desktop styles (1024px and above) */
+@media (min-width: 1024px) {
+
+}
