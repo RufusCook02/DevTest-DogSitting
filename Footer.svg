@@ -1,0 +1,14 @@
+<svg width="1440" height="63" viewBox="0 0 1440 63" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Footer">
+<mask id="mask0_2_30" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="63">
+<rect id="Mask" width="1440" height="62.0492" fill="white"/>
+</mask>
+<g mask="url(#mask0_2_30)">
+<g id="Footer Container">
+<path id="Rectangle 3" fill-rule="evenodd" clip-rule="evenodd" d="M0 14.0132C0 14.0132 53 14.0132 155 14.0132C257 14.0132 579.952 44.0431 720 44.0431C878.573 44.0431 1016.74 14.0132 1313 14.0132C1401 14.0132 1440 14.0132 1440 14.0132V62.0611H0V14.0132Z" fill="white"/>
+<path id="Rectangle 3 Copy" opacity="0.590728" fill-rule="evenodd" clip-rule="evenodd" d="M-107 0.733643C-107 0.733643 -39.9403 0.733643 89.1181 0.733643C218.176 0.733643 626.8 36.1018 804 36.1018C1004.64 36.1018 1179.46 0.733643 1554.31 0.733643C1665.65 0.733643 1715 0.733643 1715 0.733643V57.3227H-107V0.733643Z" fill="white"/>
+<path id="Rectangle 3 Copy_2" opacity="0.590728" fill-rule="evenodd" clip-rule="evenodd" d="M1822 4.73755C1822 4.73755 1754.94 4.73755 1625.88 4.73755C1496.82 4.73755 1088.2 40.1057 911 40.1057C710.361 40.1057 535.538 4.73755 160.69 4.73755C49.3458 4.73755 0 4.73755 0 4.73755V61.3266H1822V4.73755Z" fill="white"/>
+</g>
+</g>
+</g>
+</svg>
